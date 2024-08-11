@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "courseNumber": "CS4500",
+        "courseName": "Software Development",
+        "CRN": 12345,
+        "instructor": "Mitchell Wand",
+        "seats": 10,
+        "description": "This course is an introduction to software development. Students will learn how to design, implement, and test software systems. The course will cover a variety of topics including software design, testing, and debugging. Students will work in teams to develop a software project.",
+        "prerequisites": ["CS2500"]
+    }
+]

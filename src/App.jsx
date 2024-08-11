@@ -7,15 +7,15 @@ function App() {
     <>
       <div>
         <div className="nameDiv">
-          <h1 className="name">Made by: Shishir James</h1>
+          <h1 className="text-red-500">Made by: Shishir James</h1>
         </div>
-        <div className="manuDiv">
-          <button className="homeButton">Home</button>
+        <div className="">
+          <button className="t">Home</button>
           <button className="browseButton">Browse</button>
           <button className="cartButton">Cart</button>
           </div>
         <div className="filterDiv">
-          <div className="filter">Filters</div>
+          <div className="">Filters</div>
           <div>
             <input type="checkbox" />
             <label className="filter1">Filter 1</label>
